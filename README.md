@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, sou a Ana Caroline! 👋
 
-<!--
-**anaqueiroz08/anaqueiroz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas no UDF e atuando na área administrativa e financeira. Atualmente focada em expandir meus conhecimentos em desenvolvimento web, banco de dados e tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas
+
+* **Linguagens:** HTML5, CSS3, C
+* **Banco de Dados:** MySQL
+* **Controle de Versão:** Git, GitHub, GitHub Copilot
+* **Ferramentas de Escritório / Gestão:** SEI, Pacote Office, Planilhas
+
+---
+
+### 🚀 Principais Projetos
+
+* [desafio-colaborativo-git](https://github.com/anaqueiroz08/desafio-colaborativo-git): Projeto colaborativo focado no aprendizado e prática de fluxos de trabalho com Git.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anaqueiroz08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Ana" />
+</p>
